@@ -1,203 +1,200 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=""group-title="",Rit tv
-https://acesso.ecast.site:3648/live/ritlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",sbt
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",band
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",rit tv
+https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",sbt pi
+https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w909607541.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",record tv
+https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/chunklist_w1692331024.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",band pa
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",record news
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",tv pampa
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",rede tv to
+https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",record news
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 
-#EXTINF:-1 tvg-logo="" group-title="",record tv
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",tve rs
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tve rs
-https://streaming.procergs.com.br:8443/tve/stve/chunklist_w173837911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="tv aberta",tv cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 
-#EXTINF:-1 tvg-logo="" group-title="",tv pampa
-https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1175510335.m3u8
+#EXTINF:-1 tvg-logo="" group-title="variedade",gazeta tv
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w638432120.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",rede novo tempo 
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",rede brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",globo 
-http://srv.cldplay.in:80/live/hf5U6a/G55swc/83462.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",rede brasil
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w602842862.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",caravana play
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",caravana play
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",canal 29
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",classic tv series
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tv aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",mbc brasil
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",rede utv br
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",rede ngt
-https://isaocorp.cloudecast.com/ngt/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tv clube web
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",loading tv
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",geekdot tv
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",grjngo tv filmes
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",bs tv online
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",teleweb tv 
-https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tvjsid
-https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w71984843.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",sou tv
-https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tv santa maria 
-https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/chunklist_w140824738.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",adesso tv 
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tvc pelotas
-https://video01.kshost.com.br:4443/associacao6754/associacao6754/chunklist_w987267978.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tv cidadã AL 
-https://video04.logicahost.com.br/tvcidada/tvcidada/chunklist_w173450511.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",amazon sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tv caravelas
-https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w452933358.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",tv metropole 
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w768751671.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",sertao tv 
-https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w706757290.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",catve pr
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",awtv 
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",awtv
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",istv
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w411455767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",clouding tv
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w2139785973.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tv sonata
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",istv
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1281534691.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",XTreme tv
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv sonata
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w468621307.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",retro carton
-https://stmv2.painelvideocast.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv Channel network 
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w388901128.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tv classicos do cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes", séries classic
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",swt tv
-https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",swt tv
+https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Clouding TV 
-https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",bs tv online 
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",GLN tv
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes", Xtreme tv
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tela brasil tv
-https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",TV Channel Network
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",1980 channel
-https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",reviva tv
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",reviva tv
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Otaku Sign TV
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv clássicos do cinema 
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",lucas tv
-https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="desenhos",retro cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tv one
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",channel 1
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes", Channel 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tv pompeia
-https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",classique tv séries 
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tv mais brasil
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",TV Web São Luís Canoas
+#EXTINF:-1 tvg-logo="" group-title="novelas", tela brasil tv
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",1980 Channel tv
+https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",cine catástrofe 
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w171900530.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv one
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",lucas tv
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",TV Web São Luís Canoas RS
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",tv santa
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv santa
 https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",rbtv
-https://video02.logicahost.com.br:443/rbtv/rbtv/chunklist_w1722193557.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",latina sat
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",web tv cr
-https://stmv1.paineldevideo.com.br/teste/teste/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",mega one tv
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",wording tv
-https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",MVERSO TV
-https://video08.logicahost.com.br/gustavov/gustavov/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",TVNA FILMES
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tvna filmes 
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",TV CARIOCA INTERNACIONAL
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="desenhos",otaku sign
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",ACESSO BRASIL TV
-https://cdn.live.br1.jmvstream.com/webtv/tvacessochannel/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="variedade",ngt
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",SIC portugal
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv mais brasil
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",REDE TV MAIS
-https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv aliança 
+https://video08.logicahost.com.br/alianca/alianca/chunklist_w1605691277.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",TVES São Luís 
-https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv miura
+https://live20.bozztv.com/giatvplayout7/giatv-209397/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",RUNTIME AÇÃO
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv Pompéia 
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",mbc Brasil 
+https://cdn.mbcbrasil.tv.br/mbc_web/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv os detetives 
+https://video11.logicahost.com.br/detetives/detetives/chunklist_w453554374.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",web tv amparo
+https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",cine brasil
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="variedade",wording tv
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",Moviesphere Brazil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",web tv cr
+https://stmv1.paineldevideo.com.br/clagpl2/clagpl2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="desenhos",loading tv
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv nbn
+https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",rede utv br
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",runtime ação 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",runtime cine espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",runtime crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",runtime comédia 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",runtime família 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",rede tv mais
+https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",classique tv 
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",tv clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="séries e filmes",adrenalina pura tv
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+
 #EXTINF:-1 tvg-logo="" group-title="",
 
 
@@ -212,43 +209,27 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
+
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-logo="" group-title="",
 
 
 
